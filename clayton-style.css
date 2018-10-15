@@ -17,7 +17,6 @@ div#bodyarea {display: block; width: 950px; margin-left: auto; margin-right:auto
 .contact { width: 240px; float:right;  padding-left:25px; padding-right:25px;}
 
 
-
 a:link { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
 
 a:visited { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
@@ -26,6 +25,9 @@ a:active { text-decoration: none; color: 3e6090; font: 16px times; line-height: 
 
 a:hover { text-decoration: underline; color: 3e6090; font: 16px times; line-height: 18px; }
 
+a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active {
+	color: #333;
+	}
 
 a.navigation:link { text-decoration: none; color: black; font: 22px garamond; line-height: 22px; }
 
