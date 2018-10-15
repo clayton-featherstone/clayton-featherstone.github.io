@@ -25,9 +25,8 @@ a:active { text-decoration: none; color: 3e6090; font: 16px times; line-height: 
 
 a:hover { text-decoration: underline; color: 3e6090; font: 16px times; line-height: 18px; }
 
-a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active {
-	color: #333;
-	}
+a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active { color: #333; }
+a.email,    a.email:visited,    a.email:hover,    a.email:active    { color: #333; }
 
 a.navigation:link { text-decoration: none; color: black; font: 22px garamond; line-height: 22px; }
 
