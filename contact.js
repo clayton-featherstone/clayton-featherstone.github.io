@@ -1,4 +1,4 @@
-document.write("<img src=\"https://www.dropbox.com/s/i92emzyr00jjel5/PassportPhoto.jpg?dl=1\" width=\"240px\"></img>  ");
+document.write("<img src=\"headshot.jpg\" width=\"240px\"></img>  ");
 document.write("<br />                                                                                                ");
 document.write("<p>                                                                                                   ");
 document.write("1352 Steinberg Hall-Dietrich Hall<br />                                                               ");
