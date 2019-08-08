@@ -1,63 +1,13 @@
 <html>
 <body>
-  <h1> MGEC 612 due date countdown </h1> 
-  <table>
-    <tr>
-      <td style="border-bottom: thin solid; border-top: thick solid;padding-left:10px;padding-right:10px;"> Assignment </td>
-      <td style="border-bottom: thin solid; border-top: thick solid;padding-left:10px;padding-right:10px;"> Due date   </td>
-      <td style="border-bottom: thin solid; border-top: thick solid;padding-left:10px;padding-right:10px;"> Days left  </td>
-    </tr>
-    <tr>
-      <td style="padding-left:10px;padding-right:10px;"> Problem Set 1 </td>
-      <td style="padding-left:10px;padding-right:10px;" id="ps1dd"></td>
-      <td style="padding-left:10px;padding-right:10px;" id="ps1">  </td>
-    </tr>
-    <tr>
-      <td style="padding-left:10px;padding-right:10px;"> Problem Set 2 </td>
-      <td style="padding-left:10px;padding-right:10px;" id="ps2dd"></td>
-      <td style="padding-left:10px;padding-right:10px;" id="ps2">  </td>
-    </tr>
-    <tr>
-      <td style="padding-left:10px;padding-right:10px;"> Problem Set 3 </td>
-      <td style="padding-left:10px;padding-right:10px;" id="ps3dd"></td>
-      <td style="padding-left:10px;padding-right:10px;" id="ps3">  </td>
-    </tr>
-    <tr>
-      <td style="border-bottom: thick solid; border-top: thin solid;padding-left:10px;padding-right:10px;"> Final exam </td>
-      <td style="border-bottom: thick solid; border-top: thin solid;padding-left:10px;padding-right:10px;" id="examdd"></td>
-      <td style="border-bottom: thick solid; border-top: thin solid;padding-left:10px;padding-right:10px;" id="exam">  </td>
-    </tr>
-  </table>
-
-<script>
-// Set the date we're counting down to
-var ps1due  = new Date("Nov 13, 2019 00:00:00");
-var ps2due  = new Date("Dec 4,  2019 00:00:00");
-var ps3due  = new Date("Dec 12, 2019 00:00:00");
-var examdue = new Date("Dec 12, 2019 09:00:00");
-
-var now = new Date().getTime();
-var dayinms  = 1000*3600*24
-var ps1time  = Math.floor( (ps1due.getTime()  - now) / dayinms );
-var ps2time  = Math.floor( (ps2due.getTime()  - now) / dayinms );
-var ps3time  = Math.floor( (ps3due.getTime()  - now) / dayinms );
-var examtime = Math.floor( (examdue.getTime() - now) / dayinms );
-
-var ps1time  = ps1time>0  ? ps1time  : 0;
-var ps2time  = ps2time>0  ? ps2time  : 0;
-var ps3time  = ps3time>0  ? ps3time  : 0;
-var examtime = examtime>0 ? examtime : 0;
-
-// Display the result in the element with id="demo"
-document.getElementById(   "ps1").innerHTML = ps1time  + " days ";
-document.getElementById( "ps1dd").innerHTML = ps1due.toDateString();
-document.getElementById(   "ps2").innerHTML = ps2time  + " days ";
-document.getElementById( "ps2dd").innerHTML = ps2due.toDateString();
-document.getElementById(   "ps3").innerHTML = ps3time  + " days ";
-document.getElementById( "ps3dd").innerHTML = ps3due.toDateString();
-document.getElementById(  "exam").innerHTML = examtime + " days ";
-document.getElementById("examdd").innerHTML = examdue.toDateString();
-
-</script>
+  <h1 id="exam"></h1>  
+  <script>
+    var examdue = new Date("Dec 12, 2019 09:00:00");
+    var now = new Date().getTime();
+    var dayinms  = 1000*3600*24
+    var examtime = Math.floor( (examdue.getTime() - now) / dayinms );
+    var examtime = examtime>0 ? examtime : 0;
+    document.getElementById(  "exam").innerHTML = examtime + " days until the MGEC 611 Exam.";
+  </script>
 </body>
 </html>
