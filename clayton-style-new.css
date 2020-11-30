@@ -9,7 +9,7 @@ h2 { font-family:'Libre Frankin',sans-serif; color: black; font-size: 24px; line
 p { font-family:'Cardo',serif; color: black; font-size: 16px; line-height: 20px; }
 
 
-.maintext { font-family: 'Cardo',serif; color: black; font-size: 16px; line-height: 18px; }
+.maintext { font-family:'Cardo',serif; color: black; font-size: 16px; line-height: 18px; }
 
 div#bodyarea {display: block; width: 1050px; margin-left: auto; margin-right:auto; text-align:left;} 
 
@@ -22,13 +22,13 @@ div#bodyarea {display: block; width: 1050px; margin-left: auto; margin-right:aut
 .contact { width: 265px; float:right;  padding-left:75px; padding-right:25px;}
 
 
-a:link { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
+a:link { font-family:'Cardo',serif; text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
 
-a:visited { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
+a:visited { font-family:'Cardo',serif; text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
 
-a:active { text-decoration: none; color: 3e6090; font: 16px times; line-height: 18px;  }
+a:active { font-family:'Cardo',serif; text-decoration: none; color: 3e6090; font: 16px times; line-height: 18px;  }
 
-a:hover { text-decoration: underline; color: 3e6090; font: 16px times; line-height: 18px; }
+a:hover { font-family:'Cardo',serif; text-decoration: underline; color: 3e6090; font: 16px times; line-height: 18px; }
 
 a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active { color: #333; }
 a.email,    a.email:visited,    a.email:hover,    a.email:active    { color: #333; }
