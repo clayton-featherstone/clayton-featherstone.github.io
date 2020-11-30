@@ -1,9 +1,11 @@
 @import url(//fonts.googleapis.com/css2?family=Tangerine);
 @import url(//fonts.googleapis.com/css2?family=Alegreya);
+@import url(//fonts.googleapis.com/css2?family=Libre+Franklin);
+
 body { background-color: F4F4F4; background-position: top left; }
-h1 { font-family:'Alegreya','Libre Frankin', sans-serif; color: black; font-size: 50px; line-height: 12px; font-weight:500; }
-h2 { font-family:'Tangerine','Libre Frankin',sans-serif; color: black; font-size: 24px; line-height: 12px; font-weight:300; }
-p { font-family:'Tangerine','Alegreya','Libre Frankin',serif; color: black; font-size: 16px; line-height: 20px; }
+h1 { font-family:'Libre Frankin', sans-serif; color: black; font-size: 50px; line-height: 12px; font-weight:500; }
+h2 { font-family:'Libre Frankin',sans-serif; color: black; font-size: 24px; line-height: 12px; font-weight:300; }
+p { font-family:'Alegreya','Libre Frankin',serif; color: black; font-size: 16px; line-height: 20px; }
 
 
 .maintext { font-family: 'Tangerine','Alegreya','Libre Frankin',serif; color: black; font-size: 16px; line-height: 18px; }
