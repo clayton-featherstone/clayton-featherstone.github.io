@@ -6,7 +6,7 @@ p { font-family: times; color: black; font-size: 16px; line-height: 20px; }
 
 .maintext { font-family: times; color: black; font-size: 16px; line-height: 18px; }
 
-div#bodyarea {display: block; width: 950px; margin-left: auto; margin-right:auto; text-align:left;} 
+div#bodyarea {display: block; width: 975px; margin-left: auto; margin-right:auto; text-align:left;} 
 
 .header {width: 890px; float:left; top:0px; padding-left:25px; padding-right:25px; padding-bottom:25px; background-color:F4F4F4; }
 
