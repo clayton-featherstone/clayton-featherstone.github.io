@@ -28,13 +28,13 @@ a:hover { text-decoration: underline; color: 3e6090; font: 16px times; line-heig
 a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active { color: #333; }
 a.email,    a.email:visited,    a.email:hover,    a.email:active    { color: #333; }
 
-a.navigation:link { text-decoration: none; color: black; font: 22px garamond; line-height: 22px; }
+a.navigation:link { text-decoration: none; color: black; font: 22px 'Libre Franklin'; line-height: 22px; font-weight:400;}
 
-a.navigation:visited { text-decoration: none; color: black; font: 22px garamond; line-height: 22px; }
+a.navigation:visited { text-decoration: none; color: black; font: 22px 'Libre Franklin'; line-height: 22px; font-weight:400;}
 
-a.navigation:active { text-decoration: none; color: 3e6090; font: 22px garamond; line-height: 22px;}
+a.navigation:active { text-decoration: none; color: 3e6090; font: 22px 'Libre Franklin'; line-height: 22px; font-weight:400;}
 
-a.navigation:hover { text-decoration: underline; color: 3e6090; font: 22px garamond; line-height: 22px;}
+a.navigation:hover { text-decoration: underline; color: 3e6090; font: 22px 'Libre Franklin'; line-height: 22px; font-weight:400;}
 
 
 
