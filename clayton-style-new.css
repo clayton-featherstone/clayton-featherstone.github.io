@@ -14,7 +14,7 @@ div#bodyarea {display: block; width: 1025px; margin-left: auto; margin-right:aut
 
 .main { width: 500px; float:left;}
 
-.contact { width: 265px; float:right;  padding-left:50px; padding-right:25px;}
+.contact { width: 265px; float:right;  padding-left:75px; padding-right:25px;}
 
 
 a:link { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
