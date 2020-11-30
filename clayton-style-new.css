@@ -1,5 +1,5 @@
 @import url(//fonts.googleapis.com/css2?family=Tangerine);
-@import url(//fonts.googleapis.com/css2?family=AlegreyaSC);
+@import url(//fonts.googleapis.com/css2?family=Alegreya+SC);
 @import url(//fonts.googleapis.com/css2?family=Cardo);
 @import url(//fonts.googleapis.com/css2?family=Libre+Franklin);
 
@@ -20,6 +20,8 @@ div#bodyarea {display: block; width: 1050px; margin-left: auto; margin-right:aut
 .main { width: 500px; float:left;}
 
 .contact { width: 265px; float:right;  padding-left:75px; padding-right:25px;}
+
+.smallcaps { font-family:'Alegreya SC',serif }
 
 
 a:link { font-family:'Cardo',serif; text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
