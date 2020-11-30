@@ -6,15 +6,15 @@ p { font-family: times; color: black; font-size: 16px; line-height: 20px; }
 
 .maintext { font-family: times; color: black; font-size: 16px; line-height: 18px; }
 
-div#bodyarea {display: block; width: 975px; margin-left: auto; margin-right:auto; text-align:left;} 
+div#bodyarea {display: block; width: 1000px; margin-left: auto; margin-right:auto; text-align:left;} 
 
-.header {width: 975px; float:left; top:0px; padding-left:25px; padding-right:25px; padding-bottom:25px; background-color:F4F4F4; }
+.header {width: 1000px; float:left; top:0px; padding-left:25px; padding-right:25px; padding-bottom:25px; background-color:F4F4F4; }
 
 .options { width: 125px; float:left; padding-left:25px; padding-right:25px;}
 
 .main { width: 500px; float:left;}
 
-.contact { width: 240px; float:right;  padding-left:25px; padding-right:25px;}
+.contact { width: 265px; float:right;  padding-left:50px; padding-right:25px;}
 
 
 a:link { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
