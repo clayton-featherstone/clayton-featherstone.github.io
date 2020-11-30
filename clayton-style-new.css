@@ -1,3 +1,5 @@
+@import url(//fonts.googleapis.com/css2?family=Tangerine);
+@import url(//fonts.googleapis.com/css2?family=Alegreya);
 body { background-color: F4F4F4; background-position: top left; }
 h1 { font-family:'Alegreya','Libre Frankin', sans-serif; color: black; font-size: 50px; line-height: 12px; font-weight:500; }
 h2 { font-family:'Tangerine','Libre Frankin',sans-serif; color: black; font-size: 24px; line-height: 12px; font-weight:300; }
