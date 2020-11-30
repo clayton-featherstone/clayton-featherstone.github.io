@@ -1,15 +1,16 @@
-@import url(//fonts.googleapis.com/css2?family=Tangerine);
+
 @import url(//fonts.googleapis.com/css2?family=Alegreya+SC);
 @import url(//fonts.googleapis.com/css2?family=Cardo);
+@import url(//fonts.googleapis.com/css2?family=Sorts+Mill+Goudy);
 @import url(//fonts.googleapis.com/css2?family=Libre+Franklin);
 
 body { background-color: F4F4F4; background-position: top left; }
 h1 { font-family:'Libre Frankin', sans-serif; color: black; font-size: 50px; line-height: 12px; font-weight:500; }
 h2 { font-family:'Libre Frankin',sans-serif; color: black; font-size: 24px; line-height: 12px; font-weight:300; }
-p { font-family:'Cardo',serif; color: black; font-size: 16px; line-height: 20px; }
+p { font-family:'Sorts Mill Goudy',serif; color: black; font-size: 16px; line-height: 20px; }
 
 
-.maintext { font-family:'Cardo',serif; color: black; font-size: 16px; line-height: 18px; }
+.maintext { font-family:'Sorts Mill Goudy',serif; color: black; font-size: 16px; line-height: 18px; }
 
 div#bodyarea {display: block; width: 1050px; margin-left: auto; margin-right:auto; text-align:left;} 
 
@@ -24,13 +25,13 @@ div#bodyarea {display: block; width: 1050px; margin-left: auto; margin-right:aut
 .smallcaps { font-family:'Alegreya SC',serif }
 
 
-a:link { font-family:'Cardo',serif; text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
+a:link { font-family:'Sorts Mill Goudy',serif; text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
 
-a:visited { font-family:'Cardo',serif; text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
+a:visited { font-family:'Sorts Mill Goudy',serif; text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
 
-a:active { font-family:'Cardo',serif; text-decoration: none; color: 3e6090; font: 16px times; line-height: 18px;  }
+a:active { font-family:'Sorts Mill Goudy',serif; text-decoration: none; color: 3e6090; font: 16px times; line-height: 18px;  }
 
-a:hover { font-family:'Cardo',serif; text-decoration: underline; color: 3e6090; font: 16px times; line-height: 18px; }
+a:hover { font-family:'Sorts Mill Goudy',serif; text-decoration: underline; color: 3e6090; font: 16px times; line-height: 18px; }
 
 a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active { color: #333; }
 a.email,    a.email:visited,    a.email:hover,    a.email:active    { color: #333; }
@@ -44,7 +45,7 @@ a.navigation:active { text-decoration: none; color: 3e6090; font-family: 'Libre 
 a.navigation:hover { text-decoration: underline; color: 3e6090; font-family: 'Libre Frankin', sans-serif; font-size: 22px; line-height: 22px; font-weight:400;}
 
 
-
+/*
 a.twitter:link { text-decoration: none; color: 4646FF; font: 16px times; line-height: 16px; }
 
 a.twitter:visited { text-decoration: none; color: 4646FF; font: 16px times; line-height: 16px; }
@@ -61,3 +62,4 @@ a.twitter:hover { text-decoration: underline; color: 3e6090; font: 16px times; l
 F6FF00
 ED4377
 838383
+*/
