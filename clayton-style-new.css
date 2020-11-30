@@ -1,0 +1,56 @@
+body { background-color: F4F4F4; background-position: top left; }
+h1 { font-family: helvetica, arial; color: black; font-size: 50px; line-height: 12px; font-weight: lighter; }
+h2 { font-family: helvetica, arial; color: black; font-size: 24px; line-height: 12px; font-weight: lighter; }
+p { font-family: times; color: black; font-size: 16px; line-height: 20px; }
+
+
+.maintext { font-family: times; color: black; font-size: 16px; line-height: 18px; }
+
+div#bodyarea {display: block; width: 950px; margin-left: auto; margin-right:auto; text-align:left;} 
+
+.header {width: 890px; float:left; top:0px; padding-left:25px; padding-right:25px; padding-bottom:25px; background-color:FEFEFA; }
+
+.options { width: 100px; float:left; padding-left:25px; padding-right:25px;}
+
+.main { width: 500px; float:left;}
+
+.contact { width: 240px; float:right;  padding-left:25px; padding-right:25px;}
+
+
+a:link { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
+
+a:visited { text-decoration: none; color: 4646FF; font: 16px times; line-height: 18px; }
+
+a:active { text-decoration: none; color: 3e6090; font: 16px times; line-height: 18px;  }
+
+a:hover { text-decoration: underline; color: 3e6090; font: 16px times; line-height: 18px; }
+
+a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active { color: #333; }
+a.email,    a.email:visited,    a.email:hover,    a.email:active    { color: #333; }
+
+a.navigation:link { text-decoration: none; color: black; font: 22px garamond; line-height: 22px; }
+
+a.navigation:visited { text-decoration: none; color: black; font: 22px garamond; line-height: 22px; }
+
+a.navigation:active { text-decoration: none; color: 3e6090; font: 22px garamond; line-height: 22px;}
+
+a.navigation:hover { text-decoration: underline; color: 3e6090; font: 22px garamond; line-height: 22px;}
+
+
+
+a.twitter:link { text-decoration: none; color: 4646FF; font: 16px times; line-height: 16px; }
+
+a.twitter:visited { text-decoration: none; color: 4646FF; font: 16px times; line-height: 16px; }
+
+a.twitter:active { text-decoration: none; color: 3e6090; font: 16px times; line-height: 16px;}
+
+a.twitter:hover { text-decoration: underline; color: 3e6090; font: 16px times; line-height: 16px;}
+
+
+
+
+
+3D3D3D
+F6FF00
+ED4377
+838383
