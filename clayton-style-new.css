@@ -1,14 +1,15 @@
 
-@import url(//fonts.googleapis.com/css2?family=Alegreya+SC);
+@import url(//fonts.googleapis.com/css2?family=Libre+Franklin);
 @import url(//fonts.googleapis.com/css2?family=Playfair+Display+SC);
+/*@import url(//fonts.googleapis.com/css2?family=Alegreya+SC);
 @import url(//fonts.googleapis.com/css2?family=Cardo);
 @import url(//fonts.googleapis.com/css2?family=Libre+Baskerville);
 @import url(//fonts.googleapis.com/css2?family=Castoro);
 @import url(//fonts.googleapis.com/css2?family=Cormorant+Garamond);
 @import url(//fonts.googleapis.com/css2?family=Alegreya);
 @import url(//fonts.googleapis.com/css2?family=Sorts+Mill+Goudy);
-@import url(//fonts.googleapis.com/css2?family=Lora);
-@import url(//fonts.googleapis.com/css2?family=Libre+Franklin);
+@import url(//fonts.googleapis.com/css2?family=Lora);*/
+
 
 body { background-color: F4F4F4; background-position: top left; }
 h1 { font-family:'Libre Frankin', sans-serif; color: black; font-size: 50px; line-height: 12px; font-weight:500; }
