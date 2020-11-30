@@ -13,10 +13,10 @@
 body { background-color: F4F4F4; background-position: top left; }
 h1 { font-family:'Libre Frankin', sans-serif; color: black; font-size: 50px; line-height: 12px; font-weight:500; }
 h2 { font-family:'Libre Frankin',sans-serif; color: black; font-size: 24px; line-height: 12px; font-weight:300; }
-p { font-family:'Lora',serif; color: black; font-size: 16px; line-height: 20px; }
+p { font-family:serif; color: black; font-size: 16px; line-height: 20px; }
 
 
-.maintext { font-family:'Lora',serif; color: black; font-size: 16px; line-height: 18px; }
+.maintext { font-family:serif; color: black; font-size: 16px; line-height: 18px; }
 
 div#bodyarea {display: block; width: 1050px; margin-left: auto; margin-right:auto; text-align:left;} 
 
@@ -28,16 +28,16 @@ div#bodyarea {display: block; width: 1050px; margin-left: auto; margin-right:aut
 
 .contact { width: 265px; float:right;  padding-left:75px; padding-right:25px;}
 
-.smallcaps { font-family:'Playfair Display SC',serif }
+.smallcaps { font-family:'Playfair Display SC',serif font-weight:700;}
 
 
-a:link { font-family:'Lora',serif; text-decoration: none; color: 4646FF; font-size:16px; line-height: 18px; }
+a:link { font-family:serif; text-decoration: none; color: 4646FF; font-size:16px; line-height: 18px; }
 
-a:visited { font-family:'Lora',serif; text-decoration: none; color: 4646FF; font-size:16px; line-height: 18px; }
+a:visited { font-family:serif; text-decoration: none; color: 4646FF; font-size:16px; line-height: 18px; }
 
-a:active { font-family:'Lora',serif; text-decoration: none; color: 3e6090; font-size:16px; line-height: 18px;  }
+a:active { font-family:serif; text-decoration: none; color: 3e6090; font-size:16px; line-height: 18px;  }
 
-a:hover { font-family:'Lora',serif; text-decoration: underline; color: 3e6090; font-size:16px; line-height: 18px; }
+a:hover { font-family:serif; text-decoration: underline; color: 3e6090; font-size:16px; line-height: 18px; }
 
 a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active { color: #333; }
 a.email,    a.email:visited,    a.email:hover,    a.email:active    { color: #333; }
