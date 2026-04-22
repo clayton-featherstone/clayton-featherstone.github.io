@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Baylor Econ Seminar (with links)
+X-WR-TIMEZONE:America/Chicago
+X-WR-CALDESC:This is the calendar for the Baylor economics seminar. (https:
+ //clayton-featherstone.github.io/baylor-econ-seminar.html)
+BEGIN:VEVENT
+DTSTART:20260424T183000Z
+DTEND:20260424T200000Z
+DTSTAMP:20260422T222311Z
+UID:0jrotml1vceej6tsecskadvnbs@google.com
+CREATED:20260420T184700Z
+DESCRIPTION:<ul><li>Paper: <a href="https://baylor.box.com/shared/static/6b
+ xzxpu1weudicnqiahv9cc15i66iqsk.pdf" target="_blank">The Best Paper Ever</a>
+ <br></li><li>Sign up for meals and one-on-ones <a href="https://docs.google
+ .com/spreadsheets/d/1oSi-pevytTCSwXo0tMa6s0XHw3HFdspzqHLsmrKX29A/edit?usp=s
+ haring" target="_blank">here</a>.</li></ul>
+LAST-MODIFIED:20260422T195836Z
+LOCATION:Foster 329
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Jeehoon Han
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T183000Z
+DTEND:20260501T200000Z
+DTSTAMP:20260422T222311Z
+UID:2brv5be2m87paotc9ubf22khem@google.com
+CREATED:20260420T140651Z
+DESCRIPTION:<ul><li>Paper: <u><a href="https://baylor.box.com/shared/static
+ /6bxzxpu1weudicnqiahv9cc15i66iqsk.pdf" target="_blank">The Best Paper Ever<
+ /a></u></li><li>Sign up for meals and one-on-ones <a href="https://docs.goo
+ gle.com/spreadsheets/d/1oSi-pevytTCSwXo0tMa6s0XHw3HFdspzqHLsmrKX29A/edit?us
+ p=sharing" target="_blank"><u>here</u></a>.<br></li></ul>
+LAST-MODIFIED:20260422T195852Z
+LOCATION:Foster 329
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Clayton Featherstone
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260515T183000Z
+DTEND:20260515T200000Z
+DTSTAMP:20260422T222311Z
+UID:50rmuub8knkjii6vdqjn5j3bng@google.com
+CREATED:20260421T152025Z
+DESCRIPTION:<ul><li>Paper: <u><a href="https://baylor.box.com/shared/static
+ /6bxzxpu1weudicnqiahv9cc15i66iqsk.pdf" target="_blank">The Best Paper Ever<
+ /a></u></li><li>Sign up for meals and one-on-ones <a href="https://docs.goo
+ gle.com/spreadsheets/d/1oSi-pevytTCSwXo0tMa6s0XHw3HFdspzqHLsmrKX29A/edit?us
+ p=sharing" target="_blank"><u>here</u></a>.<br></li></ul>
+LAST-MODIFIED:20260422T195922Z
+LOCATION:Foster 329
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Sandy Klein
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T183000Z
+DTEND:20260508T200000Z
+DTSTAMP:20260422T222311Z
+UID:01qmhb0giiqeeeakc8asnpidkf@google.com
+CREATED:20260421T150034Z
+DESCRIPTION:<ul><li>Paper: <u><a href="https://baylor.box.com/shared/static
+ /6bxzxpu1weudicnqiahv9cc15i66iqsk.pdf" target="_blank">The Best Paper Ever<
+ /a></u></li><li>Sign up for meals and one-on-ones <a href="https://docs.goo
+ gle.com/spreadsheets/d/1oSi-pevytTCSwXo0tMa6s0XHw3HFdspzqHLsmrKX29A/edit?us
+ p=sharing" target="_blank"><u>here</u></a>.<br></li></ul>
+LAST-MODIFIED:20260422T195907Z
+LOCATION:Foster 329
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Jim Henderson
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
