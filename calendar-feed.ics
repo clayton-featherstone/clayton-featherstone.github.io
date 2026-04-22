@@ -3,7 +3,7 @@ PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Baylor Econ Seminar (with links)
+X-WR-CALNAME:Baylor Econ Seminar (plain text)
 X-WR-TIMEZONE:America/Chicago
 X-WR-CALDESC:This is the calendar for the Baylor economics seminar. (https:
  //clayton-featherstone.github.io/baylor-econ-seminar.html)
